@@ -2,7 +2,7 @@
 
 GitHub repo:
 
-Demo: 
+Demo: https://aly0701.shinyapps.io/IrisShinyProject/
 
 Slide: 
 
