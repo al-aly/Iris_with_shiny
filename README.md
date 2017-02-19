@@ -1,7 +1,9 @@
 # Developing Data Products Course - Course Project: Shiny Application and Reproducible Pitch
 
 GitHub repo:
+
 Demo: 
+
 Slide: 
 
 ## Description
